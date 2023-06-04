@@ -1,0 +1,12 @@
+{
+    "name": "ng-alain-doc",
+    "version": "0.0.0",
+    "homepage": "https://github.com/ng-alain/archive-docs#readme",
+    "private": "true",
+    "scripts": {
+      "start": "npx http-server -o /version/"
+    },
+    "dependencies": {
+      "http-server": "^14.1.1"
+    }
+  }
