@@ -8,3 +8,7 @@ cd ng-alain-doc
 yarn
 yarn start
 ```
+
+## 镜像版本
+
+https://gitee.com/ng-alain/archive-docs
