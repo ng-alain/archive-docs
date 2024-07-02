@@ -9,6 +9,11 @@ yarn
 yarn start
 ```
 
+## Docker
+
+- [Hub](https://hub.docker.com/r/cipchk/ng-alain-docs)
+- AliYun `docker pull registry.cn-hangzhou.aliyuncs.com/alain/docs`
+
 ## 镜像版本
 
 https://gitee.com/ng-alain/archive-docs
